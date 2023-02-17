@@ -1,5 +1,3 @@
-# Astroshare
-
 ![Cover Image](github-cover.png)
 
 ## The ideal Web3 expense creator
