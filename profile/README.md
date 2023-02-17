@@ -1,6 +1,6 @@
 ![Cover Image](github-cover.png)
 
-## The ideal Web3 expense creator
+## The Web3 group expenses organizer
 
 <!--
 
