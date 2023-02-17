@@ -28,7 +28,7 @@ The following features are planned to be added.
 
 ## Contribute to the project
 
-Run the server in your local machine
+Run the server in your local machine.
 
 ```bash
 npm install
