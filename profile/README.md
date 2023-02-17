@@ -27,3 +27,14 @@ The following features are planned to be added.
 - Dynamic expense for constantly updating payments.
 
 ## Contribute to the project
+
+Run the server in your local machine
+
+```bash
+npm install
+
+npm run dev
+```
+Open <http://localhost:3000> with your browser to see the result.
+
+***Astroshare is in Beta. Use at your own risk with funds you're comfortable using.***
