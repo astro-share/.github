@@ -21,5 +21,5 @@ Astroshare is a Web3 application made to keep track an manage your group expense
 - Description
 - Active until
 - Debtors
-- 
+
 The creator then selects the debtors addresses’ and the amount that each one will pay. Debtors then access the received expense and are able to pay the debt, all the debt in one transaction. The debtor can select the token in which it wants to pay, and the creator will receive it on its desired selected token.
