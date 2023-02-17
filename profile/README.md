@@ -25,3 +25,5 @@ The following features are planned to be added.
 - More blockchains compatibility.
 - Automatic creation of recurring payments.
 - Dynamic expense for constantly updating payments.
+
+## Contribute to the project
