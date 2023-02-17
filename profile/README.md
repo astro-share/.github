@@ -6,7 +6,6 @@
 
 [*Website*](https://astroshare.app)
 
-Blockshare is a Web3 based DeFi application that lets you manage shared expenses in a decentralized way.
+Astroshare is a Web3 based DeFi application that lets you manage shared expenses in a decentralized way.
 
-## The Web3 group expenses organizer
 
