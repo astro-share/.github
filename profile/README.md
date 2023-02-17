@@ -8,4 +8,15 @@
 
 Astroshare is a Web3 based DeFi application that lets you manage shared expenses in a decentralized way.
 
+## How Astroshare works
 
+Astroshare is a Web3 application made to keep track an manage your group expenses. It is built on the Moonbeam ecosystem. Users can log in with a Metamask or Talisman wallet. There are two parties, the expense creator and the debtor(s). In order to get started, the creator connects its wallet and creates an expense which includes:
+- Name
+- Recipient address (creator)
+- Amount (USD, EURO, AUD)
+- Receiving token
+- Network (Moonbeam, Ethereum, etc)
+- Category (Accomodation, Food, Transport, etc)
+- Description
+- Active until
+- Debtors
